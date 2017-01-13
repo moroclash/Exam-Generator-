@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Examstudent FileOfCorect="data/PL3_StudentAnswer.xml" QuestionNumper="10">
+<model ID="A">
+
+
+<student numberOFQeusionTrue="3" studentID="12345" studentName="mohamed2">
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+</student>
+
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamed1">
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed5455</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed44</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+</student>
+
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamed3">
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed3</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed66</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+</student>
+
+
+
+
+<student numberOFQeusionTrue="1" studentID="12345" studentName="mohamed4">
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed28</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+</student>
+
+
+<student numberOFQeusionTrue="3" studentID="1213245" studentName="mohamed5">
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed21</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed22</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+</student>
+</model>
+
+
+
+<model ID="B">
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamedB2">
+
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+<Question Cheek="0" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+</student>
+
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamedB1">
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+
+
+<Question Cheek="0" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+
+
+</student>
+
+
+
+<student numberOFQeusionTrue="3" studentID="12345" studentName="mohamedB3">
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+</student>
+
+
+
+
+<student numberOFQeusionTrue="1" studentID="12345" studentName="mohamedB4">
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed28</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+</student>
+
+
+<student numberOFQeusionTrue="2" studentID="1213245" studentName="mohamedB5">
+
+<Question Cheek="1" QuestionID="1">
+<Answer>mohamed21</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed22</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+</student>
+</model>
+
+
+
+
+
+<model ID="C">
+
+
+<student numberOFQeusionTrue="0" studentID="12345" studentName="mohamedC2">
+
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+<Question Cheek="0" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+</student>
+
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamedC1">
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+
+
+<Question Cheek="0" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+
+
+</student>
+
+
+
+<student numberOFQeusionTrue="2" studentID="12345" studentName="mohamedC3">
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+<Question Cheek="1" QuestionID="1">
+
+<Answer>mohamed5445</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+</Question>
+
+
+
+<Question Cheek="1" QuestionID="2">
+
+<Answer>mohamed25</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+
+
+
+
+</student>
+
+
+
+
+<student numberOFQeusionTrue="0" studentID="12345" studentName="mohamedC4">
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25C388</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+<Question Cheek="0" QuestionID="1">
+
+<Answer>mohamed5445C377</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+<Question Cheek="0" QuestionID="3">
+
+<Answer>mohamed28c&#127;C332</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+</student>
+
+
+<student numberOFQeusionTrue="2" studentID="1213245" studentName="mohamedC5">
+
+<Question Cheek="1" QuestionID="1">
+<Answer>mohamed21C31</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="1" QuestionID="3">
+
+<Answer>mohamed22C32</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+<Question Cheek="0" QuestionID="2">
+
+<Answer>mohamed25C33</Answer>
+
+<Answer>moaa</Answer>
+
+<Answer>kjdbkjs</Answer>
+
+</Question>
+
+
+
+</student>
+</model>
+</Examstudent>

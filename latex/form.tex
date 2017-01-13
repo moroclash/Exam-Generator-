@@ -1,0 +1,35 @@
+% !TeX spellcheck = en_US
+\documentclass{article}
+\usepackage{fullpage}
+\usepackage{tikz}
+\begin{document}
+		
+	\centering{\larg\textbf{Model ($model$)}}  \\
+	\flushleft Subject : {$subject$}
+	\hfill Place : {$place$} \\
+	
+	Exam Time : {$time$} /H
+	\hfill Exam Date : {$date$}\\
+	
+	
+	
+	\begin{tikzpicture}
+	
+	\draw (0,0)--(18,0)
+	
+	\end{tikzpicture}
+	
+	Student Name : 
+	\hfil Student ID :
+	\newline \newline 
+	\begin{enumerate}
+		#foreach($name in $question)
+			\item\Fee {$name[0]} \newline 
+			(a).{$name[1]}\hspace{2cm} (b).{$name[2]}\hspace{2cm}  (c).{$name[3]}\hspace{2cm}   (d).{$name[4]}\hspace{2cm}  (e).{$name[5]} \newline \newline
+		#end
+	\end{enumerate}
+	
+	
+
+	
+\end{document}
