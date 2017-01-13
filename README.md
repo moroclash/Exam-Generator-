@@ -18,8 +18,9 @@ if you a **Teacher** you can use it to Manage you **Courses** and **Generate MCQ
 
 
 ##Build using :
-* **Java**
-* **Latex**
+* **Java**.
+* **Latex** : to Generate Exame in **PDF** formate.
+* **XML** : to Save Exame info in **XML** Files.
  
 
 ##there exist 2 Backages 
