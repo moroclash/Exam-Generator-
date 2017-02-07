@@ -7,13 +7,13 @@ if you a **Teacher** you can use it to Manage you **Courses** and **Generate MCQ
  
 
 ##program Features:
-* you can add all **Courses** sepratelly to mange it.
+* you can add all **Courses** separately to mange it.
 * you can **add** , **delete** , **modify** all question in any existent **Subject**.
-* you can **Generate MCQ Exames** on one click in **PDF** formate using **Latex** automatically.
-* you can **Control** your exames befoure  Generate it:
-	- Choice Exame Level of difficulty **Easy** , **Mediam** or **Hard**.
-	- Choise **Number of Models** that you want.
-	- choise **Number of Question** in Exame.
+* you can **Generate MCQ Exams** on one click in **PDF** formate using **Latex** automatically.
+* you can **Control** your exames before  Generate it:
+	- Choice Exame Level of difficulty **Easy** , **medium** or **Hard**.
+	- Choice **Number of Models** that you want.
+	- Choice **Number of Question** in Exame.
 * the **automatic correction** for **MCQ Ansswer Cheet** will be add soon. 
 
 
